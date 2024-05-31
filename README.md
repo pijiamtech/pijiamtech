@@ -1,4 +1,4 @@
-<h1>Hello, Hi, Hola, 你好, 嗨, สวัสดีครับ👋, I'm Pichai Jiamwiwat</h1>
+<h1>Hello, 你好, สวัสดีครับ👋, I'm Pichai Jiamwiwat</h1>
 <h3>🔭 I’m looking to working on data engineer<br><br>🌱 I’m currently learning data science and analysis</h3>
 
 - 📄 My [Resume](https://drive.google.com/file/d/19CHNRszug6hVmD-WbuUzAZO7oGiZZqK8/view?usp=sharing)
