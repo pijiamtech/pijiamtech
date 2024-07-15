@@ -27,7 +27,7 @@
 
 ### Github status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pijamtech&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pijiamtech&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pijiamtech&theme=aura_dark)
 
