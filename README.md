@@ -26,6 +26,6 @@
 <a href="https://kaggle.com/techpat" target="blank">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 
 ### Github status
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inspirezuza&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pijiamtech&theme=aura_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inspirezuza&layout=compact&theme=vision-friendly-dark)](https://github.com/inspirezuza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pijiamtech&layout=compact&theme=vision-friendly-dark)](https://github.com/pijiamtech/github-readme-stats)
