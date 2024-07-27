@@ -1,4 +1,4 @@
-<h1 align = "center">Hello, 你好, สวัสดีครับ👋, I'm Pichai</h1>
+<h1 align = "center">Hello, 你好, สวัสดีครับ👋🏻, I'm Pichai</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=💯+Consistency;♾️+Always;🎯+Wins&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
