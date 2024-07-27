@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=💯+Consistency;♾️+Always;🎯+Wins&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<div align="center">
+<h3 >Contact me</h3>
+
+<a href="https://medium.com/@pijiamtech" target="blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://instagram.com/pat_iluv" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://fb.com/pat.jiamwiwat" target="blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://linkedin.com/in/pichai-jiamwiwat-73725930a" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://kaggle.com/techpat" target="blank">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
+
+</div>
 <h3>🔭 I’m looking to working on data engineer<br><br>🌱 I’m currently learning data science and analysis</h3>
 
 - 📄 My [Resume](https://drive.google.com/file/d/1olaDrHLCaK2fU-8Ddprj1hP2s3j_Zapl/view?usp=sharing)
@@ -22,13 +32,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<h3 align="left">Contact me</h3>
-
-<a href="https://medium.com/@pijiamtech" target="blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="https://instagram.com/pat_iluv" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://fb.com/pat.jiamwiwat" target="blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href="https://linkedin.com/in/pichai-jiamwiwat-73725930a" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://kaggle.com/techpat" target="blank">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 
 ### Github status
 
