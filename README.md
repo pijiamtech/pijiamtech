@@ -1,4 +1,9 @@
-<h1 align = "left">Hello, 你好, สวัสดีครับ👋, I'm Pichai</h1>
+<h1 align = "center">Hello, 你好, สวัสดีครับ👋, I'm Pichai</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=💯+Consistency;♾️+Always;🎯+Wins&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <h3>🔭 I’m looking to working on data engineer<br><br>🌱 I’m currently learning data science and analysis</h3>
 
 - 📄 My [Resume](https://drive.google.com/file/d/1olaDrHLCaK2fU-8Ddprj1hP2s3j_Zapl/view?usp=sharing)
