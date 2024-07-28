@@ -16,7 +16,7 @@
 </div>
 <h3>🔭 I’m looking to working on data engineer<br><br>🌱 I’m currently learning data science and analysis</h3>
 
-- 📄 My [Resume](https://drive.google.com/file/d/1olaDrHLCaK2fU-8Ddprj1hP2s3j_Zapl/view?usp=sharing)
+- 📄 My [Resume](//https://drive.google.com/file/d/1olaDrHLCaK2fU-8Ddprj1hP2s3j_Zapl/view?usp=sharing)
 
 - 📫 How to reach me [pijiamtech@gmail.com](pijiamtech@gmail.com)
 
