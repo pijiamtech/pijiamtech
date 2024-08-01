@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [pijiamtech@gmail.com](pijiamtech@gmail.com)
 
-- ⚡ Fun fact **I'm not an introvert sometimes and am an extrovert sometimes.**
+- ⚡ Fun fact **Forever doesn't exist, but lifelong learning is forever.**
 
 <h3 align="left">Skills</h3>
 
