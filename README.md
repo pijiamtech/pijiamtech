@@ -14,7 +14,8 @@
 <a href="https://kaggle.com/techpat" target="blank">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>&nbsp;
 
 </div>
-<h3>🔭 I’m looking to working on data engineer<br><br>🌱 I’m currently learning data science and analysis</h3>
+
+<h3>🔭 I’m looking to working on Data Scientist, Data Engineer<br><br>🌱 I’m currently learning OpenCV, Javascript, Data pipeline</h3><h3>📝 I regularly write articles on medium</h3>
 
 - 📄 My [Resume](https://drive.google.com/file/d/1OpqQLHM9-lcuHKFSogTaSqnA7mlLm_UQ/view?usp=sharing)
 
