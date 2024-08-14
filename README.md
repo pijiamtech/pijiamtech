@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [pijiamtech@gmail.com](pijiamtech@gmail.com)
 
-- ⚡ Fun fact **Forever doesn't exist, but lifelong learning is forever.**
+- ⚡ Fun fact **bug, insect, fly. มีแค่ bug เท่านั้นที่จะทำให้คุณเก่งขึ้น**
 
 <h3 align="left">Skills</h3>
 
