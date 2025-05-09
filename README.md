@@ -1,7 +1,8 @@
 <h1 align = "center">Hello, 你好, สวัสดีครับ👋🏻, I'm Pichai</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=💯+Consistency;♾️+Always;🎯+Wins&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%AF+Consistency;%E2%99%BE%EF%B8%8F+Always;%F0%9F%8E%AF+Wins&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
