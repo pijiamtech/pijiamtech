@@ -1,45 +1,46 @@
-<h1 align = "center">Hello, 你好, สวัสดีครับ👋🏻, I'm Pichai</h1>
+# Hi there 👋🏻
 
+My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduated with a degree in Data Science and Analytics. I'm also a self-taught developer, passionate about prompt engineering, research, and AI.
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%AF+Consistency;%E2%99%BE%EF%B8%8F+Always;%F0%9F%8E%AF+Wins&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" /></a>
-</p>
+> "When it doesn’t exist, build it. That’s what a developer does."
 
-<div align="center">
-<h3 >Contact me</h3>
+## 🎯 About Me
 
-<a href="https://medium.com/@pijiamtech" target="blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>&nbsp;
-<a href="https://instagram.com/pat_iluv" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&nbsp;
-<a href="https://fb.com/pat.jiamwiwat" target="blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>&nbsp;
-<a href="https://linkedin.com/in/pichai-jiamwiwat-73725930a" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
-<a href="https://kaggle.com/techpat" target="blank">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>&nbsp;
+## 🛠️ SKILLS
 
-</div>
+### Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
-<h3>🔭 I’m looking to working on Data Scientist, Data Engineer<br><br>🌱 I’m currently learning OpenCV, Javascript, Data pipeline</h3><h3>📝 I wrote articles in the medium</h3>
+### Library/Framework
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+<a href="#" target="_blank" rel="noreferrer"> <img src="Transformers.png" alt="Transformers" width="80" height="20"/></a>
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+<a href="#" target="_blank" rel="noreferrer"> <img src="OpenCV.png" alt="OpenCV" width="60" height="20"/> </a>
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+<a href="#" target="_blank" rel="noreferrer"> <img src="BeautifulSoup.png" alt="BeautifulSoup" width="80" height="20"/> </a>
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 
-- 📄 My [Resume](https://drive.google.com/file/d/1OpqQLHM9-lcuHKFSogTaSqnA7mlLm_UQ/view?usp=sharing)
+### Database
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+<a href="#" target="_blank" rel="noreferrer"> <img src="Qdrant.png" alt="Qdrant" width="70" height="20"/> </a>
 
-- 📫 How to reach me [pijiamtech@gmail.com](pijiamtech@gmail.com)
+### Tools
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+<a href="#" target="_blank" rel="noreferrer"> <img src="Label Studio.png" alt="Label Studio" width="120" height="20"/> </a>
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+<a href="#" target="_blank" rel="noreferrer"> <img src="Airflow.png" alt="Apache Airflow" width="60" height="20"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="n8n.png" alt="n8n" width="50" height="20"/> </a>
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
-- ⚡ Fun fact **ถ้ามันไม่มีก็สร้างมันขึ้นมา นี่แหละ Devoloper**
+## 📫 How to reach me :
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pichai-jiamwiwat-73725930a/)
 
-<h3 align="left">Skills</h3>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
-### Github status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pijiamtech&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pijiamtech&theme=aura_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pijiamtech&layout=compact&theme=vision-friendly-dark)](https://github.com/pijiamtech/github-readme-stats)
