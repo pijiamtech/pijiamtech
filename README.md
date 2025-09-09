@@ -6,8 +6,8 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 
 **My Blog shareing**
 
-- prompt engineering technique is coming soon...
-
+- [prompt engineering technique](#)
+- [](#)
 
 **SKILLS**
 
@@ -17,7 +17,6 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
 - Library/Framework
 
@@ -48,7 +47,7 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 <a href="#" target="_blank" rel="noreferrer"> <img src="Airflow.png" alt="Apache Airflow" width="60" height="20"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="n8n.png" alt="n8n" width="50" height="20"/> </a>
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
-My Projects
+**My Projects**
 
 - **Web scraping** using `Python` `BeautifulSoup` `Requests`
 
@@ -64,7 +63,9 @@ My Projects
 
 - **Binary Classification with a Bank Dataset** using `Python` `Scikit-Learn` `CatBoostClassifier`
 
-  - 
+  - Built a binary classifier to predict customer behavior using Scikit-Learn and CatBoost.
+  - Performed data preprocessing, feature engineering, and model evaluation.
+  - Achieved 97% accuracy and visualized feature importance.
 
 - **LLM-Controlled Smart Home Simulator** using `Python` `mcp_tools` `ollama` `Firebase`
 
@@ -72,6 +73,13 @@ My Projects
   - Integrated mcp_tools for seamless tool invocation and task execution.
   - Visualized system outputs through a dashboard interface.
 
+**Currently Focus**
+
+- Learning advanced Python techniques, best practices, and state-of-the-art AI.
+- Exploring opportunities for collaboration and real-world projects.
+
 ## 📫 How to reach me :
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pichai-jiamwiwat-73725930a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pijiamtech@gmail.com)
+
+[**📄 View My Resume**](#)
