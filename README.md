@@ -6,8 +6,7 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 
 **My Blog shareing**
 
-- [prompt engineering technique](#)
-- [](#)
+- [prompt engineering technique](https://medium.com/@pijiamtech/prompt-engineering-technique-d1e71a3da5d5)
 
 **SKILLS**
 
@@ -82,4 +81,4 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pichai-jiamwiwat-73725930a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pijiamtech@gmail.com)
 
-[**📄 View My Resume**](#)
+[**📄 View My Resume**](https://drive.google.com/file/d/1QbjS0cg8aMF4GmR_LOYR5S84QUw3Fqwo/view?usp=sharing)
