@@ -80,5 +80,12 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 ## 📫 How to reach me :
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pichai-jiamwiwat-73725930a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pijiamtech@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@pijiamtech)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pat.jiamwiwat/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pat_iluv/)
 
 [**📄 View My Resume**](https://drive.google.com/file/d/1QbjS0cg8aMF4GmR_LOYR5S84QUw3Fqwo/view?usp=sharing)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pijiamtech&layout=compact)
