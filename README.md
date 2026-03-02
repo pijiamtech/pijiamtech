@@ -87,5 +87,3 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 [**📄 View My Resume**](https://drive.google.com/file/d/1AsQgSF1tOpk_7hRfCWzDB6Jm3_yQunt1/view?usp=sharing)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pijiamtech&layout=compact)
