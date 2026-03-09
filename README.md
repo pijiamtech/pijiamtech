@@ -84,6 +84,7 @@ My name is **Pichai Jiamwiwat,** but you can call me **Pat.** I recently graduat
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pat.jiamwiwat/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pat_iluv/)
 
-[**📄 View My Resume**](https://drive.google.com/file/d/1AsQgSF1tOpk_7hRfCWzDB6Jm3_yQunt1/view?usp=sharing)
+[**📄 View My Resume**](https://drive.google.com/file/d/1Wn20VStlHEhjcRkNj7hrZ6j4NMGQsUuK/view?usp=sharing)
 
 ---
+
